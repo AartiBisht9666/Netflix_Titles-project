@@ -2,7 +2,6 @@
 Netflix_Titles dataset analysis to uncover content trends, ratings, genres, and release patterns.
 
 
-# Netflix Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
